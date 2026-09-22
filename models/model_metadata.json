@@ -5,11 +5,11 @@
   "metrics": {
     "vectorizer": "TF-IDF",
     "model": "Logistic Regression",
-    "accuracy": 0.89096,
-    "precision": 0.8890304091705142,
-    "recall": 0.89344,
-    "f1": 0.8912297502194557,
-    "training_seconds": 11.38
+    "accuracy": 0.89092,
+    "precision": 0.8890835257584202,
+    "recall": 0.89328,
+    "f1": 0.8911768226984317,
+    "training_seconds": 6.98
   },
   "random_state": 42
 }
