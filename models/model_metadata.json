@@ -1,0 +1,15 @@
+{
+  "selected_vectorizer": "TF-IDF",
+  "selected_model": "Logistic Regression",
+  "selection_metric": "F1 score",
+  "metrics": {
+    "vectorizer": "TF-IDF",
+    "model": "Logistic Regression",
+    "accuracy": 0.89096,
+    "precision": 0.8890304091705142,
+    "recall": 0.89344,
+    "f1": 0.8912297502194557,
+    "training_seconds": 11.38
+  },
+  "random_state": 42
+}
